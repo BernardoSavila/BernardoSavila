@@ -40,5 +40,3 @@ My final undergraduate project. REST API with JWT authentication and 60 automate
 
 Currently learning Python, and putting LLM APIs into something that has to survive retries, streaming and a cost budget.
 
----
-
