@@ -1,9 +1,6 @@
+<img src="assets/header.svg" alt="Bernardo Ávila — backend developer" width="100%">
+
 <div align="center">
-
-# Bernardo Ávila
-
-**Backend developer** · Azores, Portugal
-MSc student in Software Development and Interactive Systems
 
 <a href="https://www.linkedin.com/in/bernardo-avila-dev"><img src="https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:bernardosavila@gmail.com"><img src="https://img.shields.io/badge/Email-2b3137?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
@@ -13,6 +10,8 @@ MSc student in Software Development and Interactive Systems
 <br>
 
 I like the parts of backend work that only show up under load — the race condition that passes every manual test, the query that works until the table grows, the test that would pass whether or not the code was correct.
+
+The animation above isn't decoration: it's what [slotly](https://github.com/BernardoSavila/slotly) does. Concurrent requests for the same slot queue behind a lock, one is created, the rest get a `409`.
 
 ---
 
