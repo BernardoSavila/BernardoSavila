@@ -42,8 +42,3 @@ Currently learning Python, and putting LLM APIs into something that has to survi
 
 ---
 
-<div align="center">
-
-Open to a first backend engineering role — Portugal, or remote for an EU or US team.
-
-</div>
